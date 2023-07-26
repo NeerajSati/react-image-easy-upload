@@ -1,6 +1,6 @@
 {
   "name": "react-image-easy-upload",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Upload images with react hassle free",
   "author": "NeerajSati",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "16 - 18"
   },
   "devDependencies": {
     "microbundle-crl": "^0.13.10",
