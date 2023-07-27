@@ -4,6 +4,8 @@
 
 [![NPM](https://img.shields.io/npm/v/react-image-easy-upload.svg)](https://www.npmjs.com/package/react-image-easy-upload) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+Visit here to see a [Demo](https://codesandbox.io/s/react-image-easy-upload-nl5lyx) 
+
 ## Install
 
 ```bash
